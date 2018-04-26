@@ -1,3 +1,19 @@
+Keep this folder structure or edit the uaa path in the microservice application properties
+
+```text
+|
+| - UAA
+| - REGISTRY
+  |
+  | - MICROSERVICES
+    |
+    | - Microservice 1
+    | - Microservice 2
+    | - ...
+    | - Microservice N
+```  
+
+
 # JHipster Registry
 
 [![Build Status][travis-image]][travis-url]  [![Docker Pulls](https://img.shields.io/docker/pulls/jhipster/jhipster-registry.svg)](https://hub.docker.com/r/jhipster/jhipster-registry/)
